@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kullyexam/static/css/main.2022a23d.css",
+    "main.js": "/kullyexam/static/js/main.bdc8c7b0.js",
+    "static/js/787.68a32353.chunk.js": "/kullyexam/static/js/787.68a32353.chunk.js",
+    "index.html": "/kullyexam/index.html",
+    "main.2022a23d.css.map": "/kullyexam/static/css/main.2022a23d.css.map",
+    "main.bdc8c7b0.js.map": "/kullyexam/static/js/main.bdc8c7b0.js.map",
+    "787.68a32353.chunk.js.map": "/kullyexam/static/js/787.68a32353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2022a23d.css",
+    "static/js/main.bdc8c7b0.js"
+  ]
+}
